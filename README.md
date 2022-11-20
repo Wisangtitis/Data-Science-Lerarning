@@ -45,7 +45,6 @@ Pada menu ini terdapat 4 sub-menu:
     1. Lihat Seluruh Daftar Mobil	= Print semua data yang ada di dictionary
     2. Cari ID Daftar Mobil		= Fitur cari data berdasarkan ID
     3. Daftar Mobil Siap Disewa		= Print semua data di dictionary yang memiliki key['Status'] = 'Tersedia'
-
     0. Kembali Ke Menu Utama		= Back to main menu
 
 
@@ -57,7 +56,6 @@ Pada menu ini terdapat 2 sub-menu:
 					  User akan diminta menginput semua key (Nama Mobil, Tahun Seri, Warna, Model),
 					  untuk key Status dan Peminjam defaul ('Tersedia', '-').
 					  Penambahan input ke dalam dictionary akan dimasukkan secara kapital semua
-
     0. Kembali Ke Menu Utama		= Back to main menu
 
 -------------------------------------------------------------------------------------------------------------------------
@@ -67,7 +65,6 @@ Pada menu ini terdapat 2 sub-menu:
     1. Ubah Data (Input ID Mobil)	= Input ID mobil, jika ID ditemukan maka akan muncul pilihan key mana yang akan diubah
 					  Setiap memasukkan perubahan key, akan ditanya ulang (Y/N)
 					  Setiap data yang berhasil terubah akan muncul "Data Berhasil Tersimpan"
-
     0. Kembali Ke Menu Utama		= Back to main menu
 
 -------------------------------------------------------------------------------------------------------------------------
@@ -76,7 +73,6 @@ Pada menu ini terdapat 2 sub-menu:
 Pada menu ini terdapat 2 sub-menu:
     1. Hapus Data (Input ID Mobil)	= Input ID mobil, jika ID ditemukan akan ditampilkan setiap key milik ID tersebut,
 					  Selanjutnya akan ditanya apakah ingin menghapus data (Y/N)
-
     0. Kembali Ke Menu Utama		= Back to main menu
 
 -------------------------------------------------------------------------------------------------------------------------
